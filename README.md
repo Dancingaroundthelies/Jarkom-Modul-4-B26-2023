@@ -575,8 +575,10 @@ up route add -net 192.191.7.152 netmask 255.255.255.248 gw 192.191.7.110
 ### Pembagian IP
 
 ### NID, Netmask, Broadcast Subnet
+![NID subnet](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/103409628/b4913140-8cb6-42e7-a41b-55a849290534)
 
 ### Pembagian IP
+![Pembagian IP](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/103409628/aea70f5b-5fbb-45c9-9df5-53529c4eb8d5)
 
 ### Konfigurasi Network
 
