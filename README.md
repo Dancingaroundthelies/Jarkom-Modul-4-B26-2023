@@ -15,7 +15,7 @@ Anggota Kelompok
 ![Screenshot 2023-12-06 164421](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/91133817/6f7660b4-3d93-4b64-9b9d-049b23758f91)
 
 ## Rute
-Hasil rute yang kami dapatkan adalah sebagian berikut
+Hasil rute yang kami dapatkan adalah sebagian berikut:
 ![Screenshot 2023-12-06 164700](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/91133817/1456b269-fde3-4beb-bfd2-0a21bea05514)
 
 ## VSLM 
