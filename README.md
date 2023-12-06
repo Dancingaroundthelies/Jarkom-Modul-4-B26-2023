@@ -566,13 +566,12 @@ up route add -net 192.191.7.152 netmask 255.255.255.248 gw 192.191.7.110
 
 
 ## VLSM
-![Screenshot 2023-12-06 163555](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/91133817/fe9b6631-7aa4-46d6-91d8-589534b72e2a)
 
 ### Pembagian Subnet
+![image](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/103409628/d7833a4a-3351-4926-9f00-67e5bccffd1d)
 
 ### Tree VLSM
-
-### Pembagian IP
+![B26_VLSM_Tree](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/103409628/c5d99ce3-bb35-4219-8b99-09d161823de1)
 
 ### NID, Netmask, Broadcast Subnet
 ![NID subnet](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/103409628/b4913140-8cb6-42e7-a41b-55a849290534)
