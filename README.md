@@ -567,6 +567,10 @@ up route add -net 192.191.7.152 netmask 255.255.255.248 gw 192.191.7.110
 
 ## VLSM
 
+VLSM atau Variable Length Subnet Masking adalah sebuah teknik dalam pemberian alamat IP yang memungkinkan penggunaan alamat IP secara lebih efisien dalam sebuah jaringan. Pada pendekatan subnetting tradisional, semua subnet dalam sebuah jaringan menggunakan subnet mask yang sama, yang dapat mengakibatkan penggunaan alamat IP yang kurang efisien.
+
+Dengan VLSM, berbagai subnet dalam satu jaringan dapat menggunakan subnet mask yang berbeda-beda, memberikan fleksibilitas lebih dalam penentuan alamat IP. Ini sangat berguna ketika kita memiliki subnet dengan ukuran yang bervariasi, karena memungkinkan penentuan jumlah alamat IP yang lebih sesuai untuk setiap subnet.
+
 ### Pembagian Subnet
 ![image](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/103409628/d7833a4a-3351-4926-9f00-67e5bccffd1d)
 
