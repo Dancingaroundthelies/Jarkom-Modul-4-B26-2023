@@ -8,10 +8,10 @@ Anggota Kelompok
 |  Rayhan Almer Kusumah              |5025211115|
 |  Faiz Haq Noviandra Ciptadi Putra  |5025211132|
 
-## Topologi PKT CIDR
+## Topologi PKT VLSM
 ![Screenshot 2023-12-06 135429](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/91133817/d9fbb8e3-51aa-41f6-9b90-e53e14432a3a)
 
-## Topologi GNS3 VLSM
+## Topologi GNS3 CIDR
 ![Screenshot 2023-12-06 164421](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/91133817/6f7660b4-3d93-4b64-9b9d-049b23758f91)
 
 ## Rute
@@ -565,6 +565,6 @@ up route add -net 192.191.7.152 netmask 255.255.255.248 gw 192.191.7.110
 ```
 
 
-## CIDR
+## VLSM
 ![Screenshot 2023-12-06 163555](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/91133817/fe9b6631-7aa4-46d6-91d8-589534b72e2a)
 
