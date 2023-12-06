@@ -568,3 +568,18 @@ up route add -net 192.191.7.152 netmask 255.255.255.248 gw 192.191.7.110
 ## VLSM
 ![Screenshot 2023-12-06 163555](https://github.com/Dancingaroundthelies/Jarkom-Modul-4-B26-2023/assets/91133817/fe9b6631-7aa4-46d6-91d8-589534b72e2a)
 
+### Pembagian Subnet
+
+### Tree VLSM
+
+### Pembagian IP
+
+### NID, Netmask, Broadcast Subnet
+
+### Pembagian IP
+
+### Konfigurasi Network
+
+### Routing
+
+### Testing
